@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/soitseems/soitseems.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
